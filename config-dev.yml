@@ -1,6 +1,2 @@
 data:
-  env: config-eureka-dev
-  user:
-    username: eureka-client-user
-    password: 1291029102
-
+  info: master branch,springcloud-config/config-prod.yml version=1
